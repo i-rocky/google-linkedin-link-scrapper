@@ -1,6 +1,7 @@
 {
   "devDependencies": {
     "@types/puppeteer": "^5.4.5",
+    "node-xlsx": "^0.21.0",
     "puppeteer": "^13.5.2",
     "puppeteer-extra": "^3.2.3",
     "puppeteer-extra-plugin-adblocker": "^2.12.0",
